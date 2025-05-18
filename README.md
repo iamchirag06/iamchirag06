@@ -1,61 +1,71 @@
-# 👋 Hello, I'm Chirag Singh!  
+# 👋 Hello, I'm Chirag Singh!
 
-![Profile Views](https://komarev.com/ghpvc/?username=iamchirag06&color=blue)  
-
-## 🚀 About Me  
-
-I'm **Chirag Singh**, a passionate **Java Backend Developer** and **Tech Enthusiast**. Currently, I'm pursuing a **Bachelor of Technology in Computer Science** at **SDIET**. I love **building scalable applications**, exploring **new technologies**, and solving **real-world problems** through **clean and efficient code**.  
+[![Profile Views](https://komarev.com/ghpvc/?username=iamchirag06&color=blue)](https://github.com/iamchirag06)
 
 ---
 
-## 🛠️ Technology Stack  
+## 🚀 About Me
 
-### **Programming Languages**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> **Java**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> **Python**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> **C++**  
+- 🎓 Pursuing **B.Tech in Computer Science** at **SDIET**
+- 💻 Passionate **Java Backend Developer** and **Tech Enthusiast**
+- 🚀 Love building scalable applications and solving real-world problems
+- 🌱 Always exploring new technologies and keeping up with the latest trends
+- 🧑‍💻 Enjoy writing clean, efficient, and maintainable code
+---
 
-### **Backend Development**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/> **Spring Boot**  
+## 🛠️ Technology Stack
 
-### **Web Technologies**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> **HTML5**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> **CSS3**  
+### Programming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> **Java**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> **Python**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> **C++**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> **C**
 
-### **Tools & Platforms**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/> **Git**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/> **GitHub**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/> **Visual Studio Code**  
+### Backend Development
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/> **Spring Boot**
+
+### Web Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> **HTML5**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> **CSS3**
+
+### Database
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> **PostgreSQL**
+
+### Tools & Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> **Git**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> **GitHub**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> **VS Code**
 
 ---
 
-## 📘 Projects  
+## 📈 GitHub Stats
 
-### 🗨️ **Chatting Application**  
-A **Java-based** application that facilitates real-time communication between users. This project enhanced my understanding of **socket programming** and **multithreading**.  
-
-### ✈️ **Flight Booking System**  
-Developed as part of the **Pinnacle Labs Internship**, this project showcases my ability to work in a team and apply **software development methodologies** to deliver effective solutions.  
+![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchirag06&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchirag06&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Currently Learning  
-- **Spring Boot for Backend Development**  
-- **Advanced Java concepts**  
-- **Data structures and algorithms** for improved problem-solving skills  
+## 🌱 Currently Learning
+
+- **Spring Boot** for backend development
+- **Advanced Java concepts**
+- **Data structures and algorithms** for improved problem-solving skills
 
 ---
 
-## 📈 GitHub Stats  
+## 🧩 Fun Facts
 
-![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchirag06&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchirag06&layout=compact&theme=radical)  
+- 💡 Always excited to learn new technologies!
+- 🏆 Hackathon enthusiast and open-source contributor
+- 🧑‍💻 I love collaborating on new opportunities — feel free to connect!
 
 ---
 
-## 🤝 Let's Connect  
+## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamchirag06)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamchirag06)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamchirag06)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamchirag06)
 
-🚀 **Open to collaborations and new opportunities!** Feel free to connect.  
+---
+
+> 🚀 *Open to collaborations and new opportunities! Feel free to connect.*
